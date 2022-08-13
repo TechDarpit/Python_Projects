@@ -1,2 +1,2 @@
 # Python_Projects
-My Mini Projects In Python Programming.
+My Mini Projects In Python.
